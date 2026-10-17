@@ -1,1 +1,1 @@
-##Image_Generation_Model
+**Image_Generation_Model**
